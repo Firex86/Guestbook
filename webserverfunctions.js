@@ -1,5 +1,6 @@
 var express = require('express');
 var app = express();
+const port = process.env.PORT || 8080;
 
 app.get('/', function (req, res) {
     res.send('This is our main or root page.');
@@ -21,6 +22,6 @@ app.get('*', function (req, res) {
     res.send('Cant find the requested page', 404);
 });
 
-app.listen(8080, function() {
-    console.log('App listening on port 8080!');
+app.listen(port, function() {
+    console.log('App listening...');
 });
