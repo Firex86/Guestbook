@@ -4,15 +4,24 @@
  margin: 0;
  padding: 0;
  font-family: 'Poppins', sans-serif;   
+ background: #0d0f1b;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
 }
 
 body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
-    background: #0d0f1b ;
-    overflow: hidden;
+    margin-left: 20%;
+    margin-right: 20%;
+    color:#fff;
 }
 
 ul {
