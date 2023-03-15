@@ -1,5 +1,5 @@
 # Guestbook
-This project has still in process of being built. 
+![image](https://user-images.githubusercontent.com/46250017/225297735-66fec315-97b6-4ec7-abd5-6e8582f18903.png)
 
 # Features
 
