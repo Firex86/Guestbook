@@ -1,5 +1,6 @@
 # Guestbook
-![image](https://user-images.githubusercontent.com/46250017/225297735-66fec315-97b6-4ec7-abd5-6e8582f18903.png)
+![progress](https://user-images.githubusercontent.com/46250017/225297875-90406ae0-f151-440d-bc85-1ec021d752e8.gif)
+
 
 # Features
 
