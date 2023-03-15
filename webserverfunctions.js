@@ -13,16 +13,16 @@ app.get('/', function (req, res) {
 });
 
 app.get('/guestbook', function (req, res) {
-    res.send('This is our guestbook page.');
+    res.sendFile(path.join(__dirname + '/public/guestbook.html'));
 });
 
 
 app.get('/newmessage', function (req, res) {
-    res.send('This is our newmessage page.');
+    res.sendFile(path.join(__dirname + '/public/newmessage.html'));
 });
 
 app.get('/ajaxmessage', function (req, res) {
-    res.send('This is our ajaxmessage page.');
+    res.sendFile(path.join(__dirname + '/public/ajaxmessage.html'));
 });
 
 app.get('*', function (req, res) {
