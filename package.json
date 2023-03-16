@@ -1,14 +1,10 @@
 {
   "name": "guestbook",
   "version": "1.0.0",
-  "description": "Package for guestbook web app",
+  "description": "![progress](https://user-images.githubusercontent.com/46250017/225297875-90406ae0-f151-440d-bc85-1ec021d752e8.gif)",
   "main": "webserverfunctions.js",
-  "dependencies": {
-    "express": "^4.18.2"
-  },
-  "devDependencies": {},
   "scripts": {
-    "test": "test.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -19,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Firex86/Guestbook/issues"
   },
-  "homepage": "https://github.com/Firex86/Guestbook#readme"
+  "homepage": "https://github.com/Firex86/Guestbook#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {}
 }
