@@ -1,5 +1,23 @@
 {
+  "name": "guestbook",
+  "version": "1.0.0",
+  "description": "Package for guestbook web app",
+  "main": "webserverfunctions.js",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Firex86/Guestbook.git"
+  },
+  "author": "Ville Sume",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Firex86/Guestbook/issues"
+  },
+  "homepage": "https://github.com/Firex86/Guestbook#readme"
 }
