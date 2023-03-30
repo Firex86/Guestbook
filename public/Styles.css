@@ -24,6 +24,10 @@ body {
     color:#fff;
 }
 
+p {
+    padding: 10px;
+}
+
 ul {
     position:relative;
     display: flex;
