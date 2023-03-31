@@ -18,5 +18,5 @@ node webserverfunctions.js
 # Links
 
 1. Link to the app: https://vs-guestbook.onrender.com/
-2. Link to the video presentation: https://laureauas-my.sharepoint.com/:v:/g/personal/1903608_laurea_fi/EQfWAOod34NChDUG607pnwUBq-qMR0H3iAGMSgwxBLPVbg?e=1m7MVR
+
 
